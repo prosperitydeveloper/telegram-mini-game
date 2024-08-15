@@ -56,7 +56,6 @@
 <details>
   <summary>How much time do you need to make a Telegram Clicker Game?</summary>
   <p>We can launch your game in 1 week</p>
-  <p>You will receive a ready-made solution in less than a month.</p>
 </details>
 
 <details>
