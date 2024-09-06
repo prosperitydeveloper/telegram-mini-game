@@ -1,5 +1,4 @@
 <h1 align="center" id="title">Launch your Telegram mini game in 1 week. Hamster Kombat | TapSwap | Notcoin clone. Crypto app.</h1>
-<p align="center"><img src="https://tma.prosperity-software.com/wp-content/uploads/2024/08/img-1.png" alt="project-image"></p>
 
 ![Hamster Kombat Clone GitHub Image](/images/hamster-kombat-clone-main-1.jpg "White Label Hamster Kombat | GitHub")
 
@@ -28,9 +27,9 @@
 </p>
 
 
-<img src="/images/hamster-kombat-clone-clicker.webp" alt="project-screenshot" width="230" height="400/">
-<img src="/images/hamster-kombat-boost.webp" alt="project-screenshot" width="230" height="400/">
-<img src="/images/hamster-kombat-clone-tasks.webp" alt="project-screenshot" width="230" height="400/">
+<img src="/images/hamster-kombat-clone-clicker.png" alt="project-screenshot" width="230" height="400/">
+<img src="/images/hamster-kombat-boost.png" alt="project-screenshot" width="230" height="400/">
+<img src="/images/hamster-kombat-clone-tasks.png" alt="project-screenshot" width="230" height="400/">
 
 
 <h2>🤓 Tech stack</h2>
